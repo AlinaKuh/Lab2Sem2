@@ -30,7 +30,7 @@ int main()
     std::cout << "com 1 / com 3 = ";
     std::cout << com2 << std::endl << std::endl;
     if (com1 == com2) std::cout << "com1 == com2";
-    std::cout << "Доп.задания:" << std::endl;
+    std::cout << "Дополнительные задания:" << std::endl;
     TComplex com4;
     com4.SetRe(3);
     com4.SetIm(-5);
